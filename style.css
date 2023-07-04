@@ -34,6 +34,7 @@ body {
 .start:hover, .stop:hover {
     color: white;
     background-color: #4F709C;
+    cursor: pointer;
 }
 
 .clock {
